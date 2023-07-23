@@ -1,0 +1,50 @@
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.aboutus{
+    width: 20vw;
+    margin-top: 4vh;
+    margin-bottom: 3vh;
+    /* margin: auto; */
+}
+.container0{
+    background-image: url(images/bg.png);
+    background-size: cover;
+    
+    color: white;
+    text-align: justify;
+    padding: 15vh 8vh 20vh 8vh;
+    line-height: 200%;
+    margin: 3vh 13vw;
+}
+.rounds{
+    width: 85vw;
+    margin-top: 10vh;
+    margin-bottom: -10vh;
+}
+.categories{
+    width: 70vw;
+    margin-bottom: 8vh;
+}
+.datevenue{
+    width: 60vw;
+    margin-top: 3vh;
+    margin-bottom: 6vh;
+}
+.syllabus{
+    width: 60vw;
+    margin-top: 9vh;
+}
+.prizes{
+    width: 50vw;
+    margin: 10vh 5vw;
+   
+}
+.awards{
+    width: 50vw;
+}
